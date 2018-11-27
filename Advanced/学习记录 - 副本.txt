@@ -1,0 +1,25 @@
+_CRT_SECURE_NO_WARNINGS
+
+commas /'kɒmə/ n. 逗号 
+hierarchy /'haɪərɑːkɪ/ n. 等级制度  统治集团, 领导层
+pedigree /'pedɪgriː/ n. 世系 门第;出身 家谱;系谱
+seniority /siːnɪ'ɒrɪtɪ/ n. 年长；职位高 年资, 资历
+
+double 格式的输入和输出
+
+cin cout加速
+	std::ios::sync_with_stdio(false);
+	std::cin.tie(0);
+
+算法
+	1. Dijkstra
+
+出现段错误：
+	检查：题目数据限制，
+		1. 是否理解错误题目的数据限制 如：1002
+
+出现答案错误
+	检查：打印输出
+		1. 如1003 将 w[c2] 写成w[2]
+	检查：比较时，最大值和最小值是否改变
+		1. 如1006 在求最大maxOut和最小minIn时， 满足添加时，没有改变maxOut 和 minIn
