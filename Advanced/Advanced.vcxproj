@@ -84,7 +84,7 @@
     <ResourceCompile Include="Advanced.rc" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="1006 Sign In and Sign Out .cpp" />
+    <ClCompile Include="1013 Battle Over Cities.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
