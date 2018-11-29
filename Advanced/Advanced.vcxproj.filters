@@ -25,7 +25,7 @@
     </ResourceCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="1015 Reversible Primes.cpp">
+    <ClCompile Include="1020 Tree Traversals.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

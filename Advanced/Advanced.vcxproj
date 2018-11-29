@@ -84,7 +84,7 @@
     <ResourceCompile Include="Advanced.rc" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="1015 Reversible Primes.cpp" />
+    <ClCompile Include="1020 Tree Traversals.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
