@@ -83,6 +83,9 @@
   <ItemGroup>
     <ResourceCompile Include="Advanced.rc" />
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="1022 Digital Library .cpp" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
