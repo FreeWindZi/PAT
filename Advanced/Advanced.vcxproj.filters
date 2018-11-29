@@ -24,9 +24,4 @@
       <Filter>资源文件</Filter>
     </ResourceCompile>
   </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="1020 Tree Traversals.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-  </ItemGroup>
 </Project>
