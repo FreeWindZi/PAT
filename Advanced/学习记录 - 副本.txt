@@ -15,6 +15,10 @@ cin cout加速
 	vector
 	queue
 
+数据结构
+	1. binary tree
+	2. binary search tree
+
 算法
 	1. Dijkstra
 		多项最优时，path遍历的方向
@@ -32,6 +36,8 @@ cin cout加速
 	1007 1014
 	1016 1018
 
+总结
+	1. 数据预处理
 
 常见问题
 	1. 数据匹配 1016
