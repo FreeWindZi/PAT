@@ -25,7 +25,7 @@
     </ResourceCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="1022 Digital Library .cpp">
+    <ClCompile Include="1023 Have Fun with Numbers.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

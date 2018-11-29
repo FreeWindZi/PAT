@@ -7,7 +7,7 @@ seniority /siːnɪ'ɒrɪtɪ/ n. 年长；职位高 年资, 资历
 
 double 格式的输入和输出
 
-cin cout加速
+cin cout加速 不能喝scanf 联用
 	std::ios::sync_with_stdio(false);
 	std::cin.tie(0);
 
@@ -16,6 +16,7 @@ cin cout加速
 知识点：
 	vector
 	queue
+	大数运算
 
 数据结构
 	1. binary tree
@@ -32,12 +33,14 @@ cin cout加速
 	4. 并查集 
 		1021
 
+
 阅读
 	1009，1010 ， 1012 1017 1021
 
 题目集
 	1007 1014
 	1016 1018
+	1022
 
 总结
 	1. 数据预处理
@@ -58,8 +61,9 @@ cin cout加速
 		1. 是否理解错误题目的数据限制 如：1002
 
 出现答案错误
-	检查：打印输出
+	检查：输入和输出
 		1. 如1003 将 w[c2] 写成w[2]
+		2. cin cout加速 不能喝scanf 联用 如1023
 	检查：
 		比较时，最大值和最小值是否改变
 			1. 如1006 在求最大maxOut和最小minIn时， 满足添加时，没有改变maxOut 和 minIn
@@ -70,6 +74,7 @@ cin cout加速
 			1. 如1017 w[j].startTime < w[winIndex].startTime 的位置
 
 
+
 	检查：比较排名
 			1. 相同优先级的同名次，如下
 				100 100 89
@@ -77,3 +82,6 @@ cin cout加速
 	检查：建立正确的模型
 			1. 如1014建立正确的数据模型
 			2. 如1017
+
+	检查：bool 
+			1. 非0为true, 0 为false 如：1023 hash[i]的判断
