@@ -25,7 +25,7 @@
     </ResourceCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="1027 Colors in Mars.cpp">
+    <ClCompile Include="1028 List Sorting.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
