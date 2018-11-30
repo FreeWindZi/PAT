@@ -84,7 +84,7 @@
     <ResourceCompile Include="Advanced.rc" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="1023 Have Fun with Numbers.cpp" />
+    <ClCompile Include="1027 Colors in Mars.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

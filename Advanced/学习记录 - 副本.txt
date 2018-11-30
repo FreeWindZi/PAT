@@ -6,7 +6,7 @@ pedigree /'pedɪgriː/ n. 世系 门第;出身 家谱;系谱
 seniority /siːnɪ'ɒrɪtɪ/ n. 年长；职位高 年资, 资历
 
 double 格式的输入和输出
-
+long long 输入和输出  %lld %lld
 cin cout加速 不能喝scanf 联用
 	std::ios::sync_with_stdio(false);
 	std::cin.tie(0);
@@ -35,12 +35,13 @@ cin cout加速 不能喝scanf 联用
 
 
 阅读
-	1009，1010 ， 1012 1017 1021
+	1009，1010 ， 1012 1017 1021 
+	1024
 
 题目集
 	1007 1014
 	1016 1018
-	1022
+	1022 1026(****)
 
 总结
 	1. 数据预处理
@@ -73,7 +74,8 @@ cin cout加速 不能喝scanf 联用
 		比较时，位置是否写错
 			1. 如1017 w[j].startTime < w[winIndex].startTime 的位置
 
-
+	检查：是否按格式输出
+		1. 如1025 没有输出index
 
 	检查：比较排名
 			1. 相同优先级的同名次，如下
