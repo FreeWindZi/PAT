@@ -84,7 +84,7 @@
     <ResourceCompile Include="Advanced.rc" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="1028 List Sorting.cpp" />
+    <ClCompile Include="1031 Hello World for U.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
