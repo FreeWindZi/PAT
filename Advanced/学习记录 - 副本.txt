@@ -21,7 +21,8 @@ cin cout加速 不能喝scanf 联用
 数据结构
 	1. binary tree
 	2. binary search tree
-
+	3. 链表
+		求交集 1032
 算法
 	1. Dijkstra
 		多项最优时，path遍历的方向
@@ -32,6 +33,7 @@ cin cout加速 不能喝scanf 联用
 		循环的判断的条件
 	4. 并查集 
 		1021
+
 头文件
 	string
 		getline(cin, str);
@@ -45,7 +47,7 @@ cin cout加速 不能喝scanf 联用
 	1007 1014
 	1016 1018
 	1022 1026(****)
-	1029
+	1029 1033
 总结
 	1. 数据预处理
 
