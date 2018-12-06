@@ -84,7 +84,7 @@
     <ResourceCompile Include="Advanced.rc" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="1033 To Fill or Not to Fill.cpp" />
+    <ClCompile Include="1043 Is It a Binary Search Tree.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
